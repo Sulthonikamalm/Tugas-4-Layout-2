@@ -40,7 +40,6 @@ Widget yang dipakai berulang seperti tampilan skor (Listening, Structure, Readin
 
 ## Hasil Tampilan
 
-![Screenshot](screenshot.png)
 
 ## Cara Jalankan
 
