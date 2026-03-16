@@ -38,12 +38,4 @@ Di Flutter ada dua jenis widget dasar. `StatelessWidget` dipakai kalau widget te
 **Reusable Widget**
 Widget yang dipakai berulang seperti tampilan skor (Listening, Structure, Reading) dipisah menjadi class `_ScoreItem` tersendiri. Tujuannya supaya kode tidak redundan dan lebih mudah diubah kalau ada kebutuhan.
 
-## Hasil Tampilan
 
-
-## Cara Jalankan
-
-```bash
-flutter pub get
-flutter run
-```
